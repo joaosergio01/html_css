@@ -1,0 +1,10 @@
+Target:
+_blank = vai abrir o link em uma nova janela em branco
+_self = vai abrir o link na janela ou frame atual (padrão)
+
+Rel:
+next = indica que o link é para a próxima parte do documento atual
+prev = indica que o link é para a parte anterior do documento atual
+author = indica que é um link para o site do autor do artigo atual
+external = indica que é um link para outro site que não faz parte do site
+nofollow = indica que é um link para um site não endossado, como um link pago
